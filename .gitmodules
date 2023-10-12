@@ -1,6 +1,6 @@
 [submodule "jwt-login-api"]
-	path = jwt-login-api
+	path = api
 	url = git@github.com:butter-bulldog/jwt-login-api.git
 [submodule "jwt-login-front"]
-	path = jwt-login-front
+	path = front
 	url = git@github.com:butter-bulldog/jwt-login-front.git
